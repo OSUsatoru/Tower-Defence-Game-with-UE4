@@ -8,3 +8,5 @@ Our project, codenamed TD Squared (TD2), is a game that combines the action mome
 * Colin Kasowski
 * Satoru Yamamoto
 * Ian Gaither
+
+( project codes are not provided now )
